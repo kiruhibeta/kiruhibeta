@@ -1,3 +1,6 @@
+
+![github](https://github.com/user-attachments/assets/6613af02-d0ce-4075-9094-0a7f26b7c693)
+
 <h1 align="center">Hi 👋, I'm pluginpalate</h1>
 <h3 align="center">A passionate frontend developer from türkiye</h3>
 
