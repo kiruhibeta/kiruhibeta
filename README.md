@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/4107782c-c0b2-4c1c-8870-69a8a4d4318c)
 ![github](https://media.discordapp.net/attachments/1344289027397910661/1351647716727460021/Adsz_tasarm3.png?ex=67db2388&is=67d9d208&hm=8495537347cf85a80b60ae0e50d9cb1f0ec10f026bfc3b9e945b8af9b9985e98&=&format=webp&quality=lossless&width=1540&height=866)
 
 <h1 align="center">Hi 👋, I'm pluginpalate</h1>
