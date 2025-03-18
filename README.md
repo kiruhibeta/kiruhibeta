@@ -1,5 +1,5 @@
 
-![github](https://github.com/user-attachments/assets/6613af02-d0ce-4075-9094-0a7f26b7c693)
+![github](https://media.discordapp.net/attachments/1335004417854013553/1344579622272237630/Orange_White_Clean_and_Modular_eSports_Twitch_Panel.gif?ex=67db221b&is=67d9d09b&hm=d3936a81cb708e3e457bc4ceaf109b75f9b4d4ae0c9920a43414312bf89fb1c0&=)
 
 <h1 align="center">Hi 👋, I'm pluginpalate</h1>
 <h3 align="center">A passionate frontend developer from türkiye</h3>
